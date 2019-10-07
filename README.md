@@ -2,10 +2,9 @@
 
 IBM Cloudant® is a NoSQL database platform built for the cloud. You can
 use Cloudant as a fully-managed DBaaS running on public cloud platforms
-like Bluemix and SoftLayer or via an on-premises version called Cloudant
-Local.
+like IBM Cloud or on-premises with Apache CouchDB. Cloudant and CouchDB are API-compatible and are able to seamlessly sync data between each other. 
 
-For more information, see [Getting started with Cloudant NoSQL DB](https://www.ng.bluemix.net/docs/services/Cloudant/index.html)
+For more information, see [Getting started with Cloudant](https://cloud.ibm.com/docs/services/Cloudant?topic=cloudant-getting-started)
 
 The `loopback-connector-cloudant` module is the Cloudant connector for the LoopBack framework.
 <!-- TOC -->
